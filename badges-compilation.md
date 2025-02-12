@@ -2,8 +2,6 @@
 
 # My TypeScript Journey: Earned Badges
 
-## Badges Overview
-
 <div style="display:flex;justify-content:space-between;background-color:#f6f8fa;border:1px solid #f0f0f0;border-bottom:none;border-radius:10px 10px 0 0;padding:28px">
 <img width="100px" style="display:inline-block;background:none" src="./badges/0_TS.png" alt="Getting Started with TypeScript image">
 <a style="display:inline-block;font-size: 24px;font-weight:700;color:#24292e;margin-top:36px;border:none;margin-left:24px" href="https://learn.microsoft.com/ru-ru/training/paths/build-javascript-applications-typescript/">Build JavaScript applications using TypeScript</a>
